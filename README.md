@@ -4,6 +4,6 @@ The notebook in this repository has been made as part of the course "IBM Data Sc
 
 More information about this course can be found on Coursera ([link](https://www.coursera.org/professional-certificates/ibm-data-science)).
 
-###**Some remarks about the notebook:**
-* **There seem to be issues loading the notebook in github, giving the message "Sorry, something went wrong. Reload?". After reloading it a couple of times and/or refreshing the internet page it loaded the notebook correctly.**
-* **The interactive folium maps do not seem to be visible in the uploaded notebook. The maps can be seen in the presentation and the PowerPoint Slides attached to this repository.**
+### **Some remarks about the notebook:**
+#### * **There seem to be issues loading the notebook in github, giving the message "Sorry, something went wrong. Reload?". After reloading it a couple of times and/or refreshing the internet page it loaded the notebook correctly.**
+#### * **The interactive folium maps do not seem to be visible in the uploaded notebook. The maps can be seen in the presentation and the PowerPoint Slides attached to this repository.**
