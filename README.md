@@ -6,4 +6,4 @@ More information about this course can be found on Coursera ([link](https://www.
 
 ###**Some remarks about the notebook:**
 * **There seem to be issues loading the notebook in github, giving the message "Sorry, something went wrong. Reload?". After reloading it a couple of times and/or refreshing the internet page it loaded the notebook correctly.**
-* **The interactive folium maps do not seem to be visible in the uploaded notebook. The maps can be seen in the presentation and the PowerPoint Slides attached to this repository.
+* **The interactive folium maps do not seem to be visible in the uploaded notebook. The maps can be seen in the presentation and the PowerPoint Slides attached to this repository.**
